@@ -245,7 +245,7 @@ void rerata_std_luas_warna(IplImage *gambar, int stddevw[], int meanw[], int *lu
     sumwB = sumwG = sumwR = 0;
 
     //calculate the standard deviation of each color channels
-    // calculate sum deviation value of blue pixel selected
+    // calculate sum deviation value of blue pixel selected 
     for(i=0;i<height;i++){
         for(j=0;j<width;j++){
             b = data[i*step+j*channels+0];
