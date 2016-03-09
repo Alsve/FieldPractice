@@ -1,4 +1,4 @@
-/* Nama file      : ss-image (configure simple-scanner image processing)
+/* Nama file      : ss-image (configure simple-scanner image processing) 
  * Author         : Alrayan
  * Tanggal dibuat : 23 Agustus 2015
  *
